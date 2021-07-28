@@ -1,0 +1,5 @@
+aws:
+  accessKey: any
+  secretKey: any
+dynamodb:
+  endpoint: http://localhost:8000/
